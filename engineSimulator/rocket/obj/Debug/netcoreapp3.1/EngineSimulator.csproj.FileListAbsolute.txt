@@ -1,0 +1,13 @@
+/Users/vasilychalov/Projects/rocket/rocket/bin/Debug/netcoreapp3.1/EngineSimulator.deps.json
+/Users/vasilychalov/Projects/rocket/rocket/bin/Debug/netcoreapp3.1/EngineSimulator.runtimeconfig.json
+/Users/vasilychalov/Projects/rocket/rocket/bin/Debug/netcoreapp3.1/EngineSimulator.runtimeconfig.dev.json
+/Users/vasilychalov/Projects/rocket/rocket/bin/Debug/netcoreapp3.1/EngineSimulator.dll
+/Users/vasilychalov/Projects/rocket/rocket/bin/Debug/netcoreapp3.1/EngineSimulator.pdb
+/Users/vasilychalov/Projects/rocket/rocket/obj/Debug/netcoreapp3.1/EngineSimulator.csproj.AssemblyReference.cache
+/Users/vasilychalov/Projects/rocket/rocket/obj/Debug/netcoreapp3.1/EngineSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasilychalov/Projects/rocket/rocket/obj/Debug/netcoreapp3.1/EngineSimulator.AssemblyInfoInputs.cache
+/Users/vasilychalov/Projects/rocket/rocket/obj/Debug/netcoreapp3.1/EngineSimulator.AssemblyInfo.cs
+/Users/vasilychalov/Projects/rocket/rocket/obj/Debug/netcoreapp3.1/EngineSimulator.csproj.CoreCompileInputs.cache
+/Users/vasilychalov/Projects/rocket/rocket/obj/Debug/netcoreapp3.1/EngineSimulator.dll
+/Users/vasilychalov/Projects/rocket/rocket/obj/Debug/netcoreapp3.1/EngineSimulator.pdb
+/Users/vasilychalov/Projects/rocket/rocket/obj/Debug/netcoreapp3.1/EngineSimulator.genruntimeconfig.cache
